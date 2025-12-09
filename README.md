@@ -33,7 +33,8 @@ Built entirely in **Microsoft Excel** using pivot tables, charts, conditional fo
 
 ## 📈 Dashboard Preview
 
-<img width="1183" height="665" alt="image" src="https://github.com/user-attachments/assets/705c455d-c1f3-4e0b-aaab-9ce3329061e7" />
+<img width="1185" height="670" alt="image" src="https://github.com/user-attachments/assets/8b951b5e-bead-45b4-97ea-16d012e9d9a6" />
+
 
 
 ---
